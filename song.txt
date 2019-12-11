@@ -3,3 +3,5 @@ sing,sing,sing
 
 pa,pa,pa
 -----------------
+ola,o la,
+pam-pa-pa
