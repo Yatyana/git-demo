@@ -3,7 +3,3 @@ sing,sing,sing
 
 pa,pa,pa
 -----------------
-la,la,la
-ooooooo
-uhyyy
-uhyyyy
